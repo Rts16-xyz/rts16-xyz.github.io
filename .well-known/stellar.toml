@@ -10,10 +10,9 @@ ORG_NAME="OVJ Stellar"
 ORG_DBA="OVJ"
 ORG_URL="https://rts16-xyz.github.io/"
 ORG_LOGO="https://rts16-xyz.github.io/ovj.png"
-ORG_DESCRIPTION="OVJ is a community utility token built on the Stellar Network."
+ORG_DESCRIPTION="OVJ Community Utility Token on Stellar"
 ORG_PHYSICAL_ADDRESS="Indonesia"
 ORG_OFFICIAL_EMAIL="admin@rts.web.id"
-ORG_GITHUB="https://github.com/Rts16-xyz/rts16-xyz.github.io"
 
 [[PRINCIPALS]]
 name="OVJ Team"
