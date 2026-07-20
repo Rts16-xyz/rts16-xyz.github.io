@@ -1,1 +1,31 @@
+VERSION="2.0.0"
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
+ACCOUNTS=[
+"GD7VZXYBGB3SWFHRRUKOJWGMR3EYUNYSTCKBKWF26H7UFZ6SNCI7KHT2"
+]
+
+[DOCUMENTATION]
+ORG_NAME="OVJ Stellar"
+ORG_DBA="OVJ"
+ORG_URL="https://rts16-xyz.github.io/"
+ORG_LOGO="https://rts16-xyz.github.io/ovj.png"
+ORG_DESCRIPTION="OVJ is a community utility token built on the Stellar Network."
+ORG_PHYSICAL_ADDRESS="Indonesia"
+ORG_OFFICIAL_EMAIL="admin@rts.web.id"
+ORG_GITHUB="https://github.com/Rts16-xyz/rts16-xyz.github.io"
+
+[[PRINCIPALS]]
+name="OVJ Team"
+email="admin@rts.web.id"
+
+[[CURRENCIES]]
+code="OVJ"
+issuer="GD7VZXYBGB3SWFHRRUKOJWGMR3EYUNYSTCKBKWF26H7UFZ6SNCI7KHT2"
+display_decimals=0
+name="OVJ Stellar"
+desc="Community utility token."
+image="https://rts16-xyz.github.io/ovj.png"
+conditions="Community utility token."
+status="live"
+is_asset_anchored=false
